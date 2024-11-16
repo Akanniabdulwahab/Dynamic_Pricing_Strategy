@@ -1,2 +1,4 @@
 # Dynamic_Pricing_Strategy
-This project is a dynamic Pricing model that can effectively adjusts prices in E-commerce applications based on real-time demand, competitor prices, and Inventory levels.
+
+![image](https://github.com/user-attachments/assets/550d48fc-b4c4-405b-85d6-805558dfeab7)
+
