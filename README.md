@@ -40,7 +40,7 @@ In this section, I prepared my dataset for modelling by dividing the data into t
 I went on to build a model called the Exponential smoothing to forecast demand and wet to evaluate the model on three parameter, RMSE (root mean squared error), MAE (mean absolute error), MAPE (mean absolute percentage error). MAPE gave an output of 11% which shows how far the values are from the original. This mean our model is performing at 89% accuracy which is performing at a good level.
 
 ## Price Optimization
-In this section, I created a model to optimize prices and price competitiveness against your competitor prices.
+In this section, I created a model to optimize prices and price competitiveness against our competitor prices.
 Comparing the usual prices against the optimal prices for all product categories, we can see that profits has increased drastically. For the price differences between our prices and our competitor prices for all product categories, we have been able to reduce the gap between the prices, so we don’t make too many losses as before and to be able to improve our profit.
 In most cases our prices mostly never go above our competitor prices except for Usual vs Optimal Average Price Difference for Home & Garden where prices going below zero (0) shows our prices are higher for Home & Garden than the competitor prices.
 
